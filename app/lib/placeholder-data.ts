@@ -129,6 +129,7 @@ const invoices = [
   },
 ];
 
+console.log(invoices.length);
 const revenue = [
   { month: 'Jan', revenue: 2000 },
   { month: 'Feb', revenue: 1800 },
